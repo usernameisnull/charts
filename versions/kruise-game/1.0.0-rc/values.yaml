@@ -23,8 +23,8 @@ kruiseGame:
 replicaCount: 1
 
 image:
-  repository: openkruise/kruise-game-manager
-  tag: v1.0.0
+  repository: swr.ap-southeast-1.myhuaweicloud.com/huaweiclouddeveloper/kruise-game-manager
+  tag: v0.10.0-hw
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
 
